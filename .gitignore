@@ -1,3 +1,10 @@
+#checkpoints
+Checkpoint_folder/checkpoints/
+Checkpoint_folder/checkpoints2/
+Checkpoint_folder/checkpoints3/
+Checkpoint_folder/checkpoints4/
+Checkpoint_folder/checkpoints5/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
